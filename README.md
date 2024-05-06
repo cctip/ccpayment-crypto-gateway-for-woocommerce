@@ -7,7 +7,7 @@ This plugin allows stores using the WooCommerce shopping cart system to accept c
 
 Read the plugin installation instructions below to get started with CCPayment Cryptocurrency payment gateway on your shop.
 Accept Bitcoin, Litecoin, Ethereum and other coins.
-Full setup guide with screenshots is also available on: <https://bit.ly/CCsupportedcoins>
+Check supported coins on: <https://bit.ly/CCsupportedcoins>
 
 ## Install
 
