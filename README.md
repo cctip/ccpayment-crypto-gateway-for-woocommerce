@@ -31,7 +31,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 ### via WooCommerce FTP Uploader
 
-1. Download [CCPayment-gateway-for-woocommerce.zip](https://github.com/CCPayment/woocommerce-plugin/releases/).
+1. Download [woocommerce-gateway-ccpayment.zip](https://github.com/cctip/woocommerce-gateway-ccpayment/releases).
 
 2. Go to *Admin » Plugins » Add New* in admin panel.
 
@@ -45,7 +45,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 ### via FTP
 
-1. Download [CCPayment-gateway-for-woocommerce.zip](https://github.com/CCPayment/woocommerce-plugin/releases/).
+1. Download [woocommerce-gateway-ccpayment.zip](https://github.com/cctip/woocommerce-gateway-ccpayment/releases).
 
 2. Unzip and upload **woocommerce-CCPayment/** directory to **/wp-content/plugins/** through FTP.
 
