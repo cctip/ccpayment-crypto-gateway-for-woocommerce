@@ -1,12 +1,11 @@
 <?php
 
-class Ccpayment_Client
+class CCPayment_Client
 {
     protected string $appId = '';
     protected string $appSecret = '';
 
-    protected string $fiatId = '';
-    public string $apiEndPoint = 'https://efb014f4merchantdev.ccpayment.com/ccpayment/v2';
+    public string $apiEndPoint = 'https://ccpayment.com/ccpayment/v2';
 
 
     const PayStatusNO = 'Pending';

@@ -7,7 +7,7 @@ import { getSetting } from '@woocommerce/settings';
 const settings = getSetting( 'ccpayment_data', {} );
 
 const defaultLabel = __(
-	'Ccpayment Payments'
+	'CCPayment Payments'
 );
 
 const label = decodeEntities( settings.title ) || defaultLabel;
@@ -40,10 +40,10 @@ const Label = () => {
 // };
 
 /**
- * Ccpayment payment method config object.
+ * CCPayment payment method config object.
  */
-const Ccpayment = {
-	name: "ccpayment",
+const CCPayment = {
+	name: "CCPayment",
 	label: <Label />,
 	content: <Content />,
 	edit: <Content />,

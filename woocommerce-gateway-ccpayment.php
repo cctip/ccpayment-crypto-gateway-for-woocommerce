@@ -43,10 +43,10 @@ class WC_CCPayment_Payments {
         define('CCPAYMENT_NAME', 'ccpayment');
         define('CCPAYMENT_LOG_FILE', CCPAYMENT_PLUGIN_PATH.'/error.log');
 
-		// Ccpayment Payments gateway class.
+		// CCPayment Payments gateway class.
 		add_action( 'plugins_loaded', array( __CLASS__, 'includes' ), 0 );
 
-		// Make the Ccpayment Payments gateway available to WC.
+		// Make the CCPayment Payments gateway available to WC.
 		add_filter( 'woocommerce_payment_gateways', array( __CLASS__, 'add_gateway' ) );
 
 		// Registers WooCommerce Blocks integration.

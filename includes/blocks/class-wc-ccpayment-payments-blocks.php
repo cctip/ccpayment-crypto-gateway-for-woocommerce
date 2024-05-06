@@ -2,7 +2,7 @@
 use Automattic\WooCommerce\Blocks\Payments\Integrations\AbstractPaymentMethodType;
 
 /**
- * Ccpayment Payments Blocks integration
+ * CCPayment Payments Blocks integration
  *
  * @since 2.0.0
  */
@@ -20,7 +20,7 @@ final class WC_Gateway_CCPayment_Blocks_Support extends AbstractPaymentMethodTyp
 	 *
 	 * @var string
 	 */
-	protected $name = 'ccpayment';
+	protected $name = 'CCPayment';
 
 	/**
 	 * Initializes the payment method type.

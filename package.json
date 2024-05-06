@@ -1,8 +1,8 @@
 {
 	"name": "ccpayment-pay",
-	"title": "WooCommerce Ccpayment Payments",
+	"title": "WooCommerce CCPayment Payments",
 	"version": "2.0.0",
-	"author": "Ccpayment",
+	"author": "CCPayment",
 	"license": "GPL-3.0+",
 	"keywords": [],
 	"engines": {

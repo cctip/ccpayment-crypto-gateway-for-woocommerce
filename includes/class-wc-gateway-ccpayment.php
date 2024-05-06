@@ -3,9 +3,9 @@
 require_once(__DIR__ . '/class-ccpayment-client.php');
 
 /**
- * WC_Gateway_Ccpayment class
+ * WC_Gateway_CCPayment class
  *
- * @author   ccpayment
+ * @author   CCPayment
  * @package  WooCommerce CCPayment Payments Gateway
  * @since    1.0.0
  */
@@ -30,8 +30,8 @@ class WC_Gateway_CCPayment extends WC_Payment_Gateway {
     public int $expiredAt;
     //public $order_statuses;
 
-    /** @var Ccpayment_Client */
-    private Ccpayment_Client $ccpayment;
+    /** @var CCPayment_Client */
+    private CCPayment_Client $ccpayment;
 
 	/**
 	 * Constructor for the gateway.
@@ -46,7 +46,7 @@ class WC_Gateway_CCPayment extends WC_Payment_Gateway {
 		$this->method_title       = _x( 'CCPayment', 'CCPayment payment method', 'woocommerce-gateway-ccpayment' );
 		$this->method_description = __( 'Start accepting cryptocurrency payments via CCPayment.', 'woocommerce-gateway-ccpayment' );
 
-        $this->ccpayment = new Ccpayment_Client();
+        $this->ccpayment = new CCPayment_Client();
 		// Load the settings.
 		$this->init_form_fields();
 		$this->init_settings();
