@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: CCPayment.com Payment Gateway for WooCommerce
- * Plugin URI: https://github.com/Plisio/woocommerce-plugin
+ * Plugin URI: https://github.com/cctip/woocommerce-gateway-ccpayment
  * Description: Adds the CCPayment Payments gateway to your WooCommerce website.
  * Version: 1.0.0
  *
