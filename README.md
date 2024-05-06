@@ -25,7 +25,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 4. Activate the plugin through the **Plugins** menu in WordPress.
 
-5. Enter [APP ID \ APP Secret](https://ccpayment.com/api/doc/?en#credentials) data to WooCommerce CCPayment Plugin Settings: *Admin » WooCommerce » Settings* click on **Payments** tab find **CCPayment** in Payment Methods table and click **Set up**.
+5. Enter [APP ID \ APP Secret](https://ccpayment.com/api/doc#credentials) data to WooCommerce CCPayment Plugin Settings: *Admin » WooCommerce » Settings* click on **Payments** tab find **CCPayment** in Payment Methods table and click **Set up**.
 
 6. Don't forget check **Enable Cryptocurrency payments via CCPayment** checkbox in WooCommerce-CCPayment Plugin settings.
 
@@ -39,7 +39,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 4. Activate the plugin through the **Plugins** menu in WordPress.
 
-5. Enter [APP ID \ APP Secret](https://ccpayment.com/api/doc/?en#credentials)  data to WooCommerce CCPayment Plugin Settings: *Admin » WooCommerce » Settings* click on **Payments** tab find **CCPayment** in Payment Methods table and click **Set up**.
+5. Enter [APP ID \ APP Secret](https://ccpayment.com/api/doc#credentials)  data to WooCommerce CCPayment Plugin Settings: *Admin » WooCommerce » Settings* click on **Payments** tab find **CCPayment** in Payment Methods table and click **Set up**.
 
 6. Don't forget check **Enable Cryptocurrency payments via CCPayment** checkbox in WooCommerce-CCPayment Plugin settings.
 
@@ -51,7 +51,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 3. Activate the plugin through the **Plugins** menu in WordPress.
 
-4. Enter [APP ID \ APP Secret](https://ccpayment.com/api/doc/?en#credentials)  data to WooCommerce CCPayment Plugin Settings: *Admin » WooCommerce » Settings* click on **Payments** tab find **CCPayment** in Payment Methods table and click **Set up**.
+4. Enter [APP ID \ APP Secret](https://ccpayment.com/api/doc#credentials)  data to WooCommerce CCPayment Plugin Settings: *Admin » WooCommerce » Settings* click on **Payments** tab find **CCPayment** in Payment Methods table and click **Set up**.
 
 5. Don't forget check **Enable Cryptocurrency payments via CCPayment** checkbox in WooCommerce-CCPayment Plugin settings.
 
