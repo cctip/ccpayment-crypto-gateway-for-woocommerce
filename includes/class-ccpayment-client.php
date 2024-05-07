@@ -61,7 +61,7 @@ class CCPayment_Client
 
     public function guestApiCall($uri, $req = array())
     {
-        $body = json_encode($req);
+        $body = wp_json_encode($req);
         $timestamp = time();
         $payload = $this->appId.$timestamp;
         if (!empty($req)){
@@ -95,7 +95,7 @@ class CCPayment_Client
                 throw New Exception('cURL error: ' . $resp->get_error_message());
             }
             if ( ! isset( $resp['response'] ) ) {
-                throw New Exception('cURL error: ' . json_encode($resp));
+                throw New Exception('cURL error: ' . wp_json_encode($resp));
             }
             if ($resp['response']['code'] != 200){
                 throw New Exception('cURL error: ' . $resp['response']['message']);
