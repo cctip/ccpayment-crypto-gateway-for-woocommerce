@@ -189,7 +189,7 @@ class WC_Gateway_CCPayment extends WC_Payment_Gateway {
         }
         return wp_trim_words($goodsName);
     }
-    public function convert_to_expiredAt($i): float|int
+    public function convert_to_expiredAt($i): int
     {
         $expiredAt = 0;
         $hour = 3600;

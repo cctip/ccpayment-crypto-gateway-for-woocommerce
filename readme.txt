@@ -1,7 +1,7 @@
 ﻿=== Accept Cryptocurrencies with CCPayment ===
 Contributors: CCPayment
 Donate link: https://ccpayment.com
-Tags: ccpayment, bitcoin, accept bitcoin, ethereum, usdt, bitcoin gateway, payment gateway, payment module, bitcoin module, bitcoin woocommerce, btc
+Tags: ccpayment,crypto, bitcoin, accept bitcoin, ethereum, usdt, bitcoin gateway, payment gateway, payment module, bitcoin module, bitcoin woocommerce, btc
 Requires at least: 4.0
 Tested up to: 6.4
 Stable tag: 1.0.0
