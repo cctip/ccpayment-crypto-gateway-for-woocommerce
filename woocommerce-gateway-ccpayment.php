@@ -8,7 +8,7 @@
  * Author: CCPayment
  * Author URI: https://ccpayment.com/
  *
- * Text Domain: woocommerce-gateway-ccpayment
+ * Text Domain: ccpayment-payment-gateway-for-woocommerce
  * Domain Path: /i18n/languages/
  *
  * Requires at least: 4.2
