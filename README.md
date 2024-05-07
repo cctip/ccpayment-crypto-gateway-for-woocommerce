@@ -56,7 +56,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 5. Don't forget check **Enable Cryptocurrency payments via CCPayment** checkbox in WooCommerce-CCPayment Plugin settings.
 
 
-**WARNING:** 
+**WARNING:**
 * It is good practice to backup your database before installing plugins. Please make sure you create backups.
 
 ## Support
@@ -68,4 +68,4 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 ## License
 
-Please refer to the [LICENSE](https://github.com/CCPayment/woocommerce-plugin/blob/master/LICENSE) file that came with this project.
+Please refer to the [LICENSE](https://github.com/cctip/woocommerce-gateway-ccpayment/blob/master/LICENSE) file that came with this project.
