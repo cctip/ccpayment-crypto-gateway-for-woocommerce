@@ -47,7 +47,7 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 1. Download [ccpayment-crypto-gateway-for-woocommerce.zip](https://github.com/cctip/ccpayment-crypto-gateway-for-woocommerce/releases).
 
-2. Unzip and upload **woocommerce-CCPayment/** directory to **/wp-content/plugins/** through FTP.
+2. Unzip and upload **CCPayment-gateway-for-woocommerce/** directory to **/wp-content/plugins/** through FTP.
 
 3. Activate the plugin through the **Plugins** menu in WordPress.
 
