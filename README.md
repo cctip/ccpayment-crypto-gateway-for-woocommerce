@@ -1,4 +1,4 @@
-CCPayment.com Payment Gateway for WooCommerce
+CCPayment Crypto Gateway For WooCommerce
 =====================================================
 
 # WooCommerce CCPayment Plugin
