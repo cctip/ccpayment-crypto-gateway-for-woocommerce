@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: CCPayment.com Payment Gateway for WooCommerce
- * Plugin URI: https://github.com/cctip/woocommerce-gateway-ccpayment
- * Description: Adds the CCPayment Payments gateway to your WooCommerce website.
+ * Plugin Name: CCPayment Crypto Gateway For WooCommerce
+ * Plugin URI: https://github.com/cctip/ccpayment-crypto-gateway-for-woocommerce
+ * Description: Adds the CCPayment Crypto gateway to your WooCommerce website.
  * Version: 1.0.0
  *
  * Author: CCPayment
  * Author URI: https://ccpayment.com/
  *
- * Text Domain: ccpayment-payment-gateway-for-woocommerce
+ * Text Domain: ccpayment-crypto-gateway-for-woocommerce
  * Domain Path: /i18n/languages/
  *
  * Requires at least: 4.2

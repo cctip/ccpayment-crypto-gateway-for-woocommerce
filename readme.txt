@@ -6,9 +6,9 @@ Requires at least: 4.0
 Tested up to: 6.4
 Stable tag: 1.0.0
 License: MIT
-License URI: https://github.com/cctip/woocommerce-gateway-ccpayment/blob/master/LICENSE
+License URI: https://github.com/cctip/ccpayment-crypto-gateway-for-woocommerce/blob/master/LICENSE
 
-Use CCPayment to accept BTC/ETH/USDT and other 100+ tokens with the lowest fee on the market, only 0.03%
+Use CCPayment to accept BTC/ETH/USDT and other 100+ tokens with the lowest fee on the market, only 0.3%
 
 == Description ==
 * Support 50+ Networks BTC/BSC/ETH/SOL/TRX/POLYGON/TON and more, 100+ Cryptocurrencies XRP/ADA/DOT/DOGE/PEPE/LINK/LTC and more.
@@ -29,7 +29,7 @@ Use CCPayment to accept BTC/ETH/USDT and other 100+ tokens with the lowest fee o
 
 == Installation ==
 
-* Upload the "ccpayment-payment-gateway-for-woocommerce" plugin to the /wp-content/plugins/ directory. (Or find the "ccpayment-payment-gateway-for-woocommerce" plugin in the WordPress plugin market and complete the installation.)
+* Upload the "ccpayment-payment-gateway-for-woocommerce" plugin to the /wp-content/plugins/ directory. (Or find the "ccpayment-crypto-gateway-for-woocommerce" plugin in the WordPress plugin market and complete the installation.)
 * Activate it through the "Plugins" menu in WordPress.
 * In the WooCommerce settings page, navigate to the Payment Gateways tab, then click the "Manage" button in the CCPayment.com option.
 * Check the "Enable cryptocurrency payments via CCPayment" box and complete the configuration, including the Merchant APP ID and APP Secret.
@@ -43,3 +43,6 @@ Use CCPayment to accept BTC/ETH/USDT and other 100+ tokens with the lowest fee o
 == Contributors & Developers ==
 * CCPayment.com Payment Gateway for WooCommerce. The plugin is open-source software, and the following team have contributed to it.
 logo+CCPayment Team
+
+
+
