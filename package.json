@@ -1,9 +1,8 @@
 {
-	"name": "ccpayment-pay",
-	"title": "WooCommerce CCPayment Payments",
+	"name": "CCPayment-Gateway",
+	"title": "CCPayment Crypto Gateway For WooCommerce",
 	"version": "2.0.0",
 	"author": "CCPayment",
-	"license": "GPL-3.0+",
 	"keywords": [],
 	"engines": {
 		"node": ">=6.9.4",
