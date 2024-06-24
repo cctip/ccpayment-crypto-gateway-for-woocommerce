@@ -68,4 +68,4 @@ Install the plugin via the [Wordpress Plugin Manager](https://wordpress.org/plug
 
 ## License
 
-Please refer to the [LICENSE](https://github.com/cctip/ccpayment-crypto-gateway-for-woocommerce/blob/master/LICENSE) file that came with this project.
+Please refer to the [LICENSE](https://github.com/cctip/ccpayment-crypto-gateway-for-woocommerce/blob/main/LICENSE) file that came with this project.
